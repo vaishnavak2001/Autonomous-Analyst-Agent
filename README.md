@@ -37,4 +37,7 @@ An AI Agent capable of analyzing local data (CSV) and searching the live web to 
     ```bash
     streamlit run app.py
     ```
+![UI](Screenshots/UI.PNG)
+![DATASET QUERY ](Screenshots/dataset_query.PNG)
+![INTERNET_SEARCH](Screenshots/internet_search.PNG)
 
